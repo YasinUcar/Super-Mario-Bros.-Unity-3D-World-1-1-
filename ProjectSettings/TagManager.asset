@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - EnemyUpper
+  - Breakable
+  - BreakableMark
+  - BreakableBrick
+  - Deneme
+  - Mushroom
+  - BreakableMarkHit
+  - BreakableBrickHit
+  - FireFlower
+  - UIManager
+  - MarioManager
+  - Empty
+  - DieCollider
+  - Fallow
+  - Pipe
+  - 1UP
+  - BreakableMark1UP
+  - Tile3Collider
+  - EnemyEmpty
+  - TurtleEnemy
+  - TurtleShell
+  - Brick
+  - TurtleEnemyUpper
+  - Coin
+  - PipeUnderground
+  - PipeDown
+  - SceneManager
+  - UndergroundWorld
+  - CheckPointManager
+  - Flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - "\u0130nvisibleCollider"
+  - Mario
+  - Enemys
+  - Turtle
+  - Die
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
